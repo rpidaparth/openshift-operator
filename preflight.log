@@ -1,0 +1,2 @@
+time="2023-11-06T22:25:52Z" level=info msg="certification library version" version="1.7.2 <commit: f1bfa27d3f87bc9b95936aaeb4edc6a92a268645>"
+time="2023-11-06T22:25:52Z" level=info msg="target image" image="gcr.io/gcp-pavmqa/vrp/operator/pan-cn-series-operator-bundle:2.0.0"
